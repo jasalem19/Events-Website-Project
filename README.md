@@ -1,8 +1,9 @@
 Events Website Project
-Project Overview
+
 This project is an Events Website that allows users to create, browse, and attend events. The platform is designed to be user-friendly and efficient, providing a seamless experience for both event organizers and attendees.
 
 Technology Stack
+
 Frontend
 HTML: Provides the basic structure of the website, ensuring a semantic and accessible layout.
 CSS: Used for styling the website, making it visually appealing and responsive across different devices.
@@ -17,8 +18,7 @@ Event Browsing: Users can browse through a list of available events, filtered by
 Event Attendance: Users can register to attend events, with their attendance recorded and managed in the backend.
 
 Setup Instructions
-Clone the Repository: git clone https://github.com/jsalem19/events-website.git
-Navigate to the Project Directory: cd events-website
+
 Setup Database: Import the provided SQL file into your MySQL database to create the necessary tables.
 Configure Database Connection: Update the database connection details in the PHP files to match your local or remote MySQL server.
 Launch the Server: Use a local server environment like XAMPP or WAMP to run the project, or deploy it to a web server.
